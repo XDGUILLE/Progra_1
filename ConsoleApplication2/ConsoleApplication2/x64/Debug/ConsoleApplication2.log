@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\debra\Documentos\GUILLERMO PC\UMG\Progra_1\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(68,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\debra\Documentos\GUILLERMO PC\UMG\Progra_1\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(76,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\debra\Documentos\GUILLERMO PC\UMG\Progra_1\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(82,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplication2.vcxproj -> C:\Users\debra\Documentos\GUILLERMO PC\UMG\Progra_1\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
